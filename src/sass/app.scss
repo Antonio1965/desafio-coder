@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  // background: url('https://www.masculin.com/wp-content/uploads/sites/2/article/13067/drone-longue-distance.jpg?bypass=1');  
+  
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+    font-size: 30px;
+  }
+  .boton{
+    font-size: 30px;
+    color: black;
+    background-color: coral;
+    border-radius: 10px;
+  }
+
+}
